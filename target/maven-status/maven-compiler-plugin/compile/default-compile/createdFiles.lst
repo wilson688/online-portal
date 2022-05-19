@@ -1,0 +1,8 @@
+com/onlineportal/model/UserType.class
+com/onlineportal/service/ClassRegistrationService.class
+com/onlineportal/model/Admin.class
+com/onlineportal/service/AdminService.class
+com/onlineportal/model/Course.class
+com/onlineportal/OnlinePortalApplication.class
+com/onlineportal/model/User.class
+com/onlineportal/service/portalService.class
